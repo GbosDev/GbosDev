@@ -31,7 +31,7 @@ Estudante de **Sistemas de Informação (UNIRIO)**, com foco em **back-end**: mo
 
 ## 📊 Estatísticas
 
-<table align="center" border="0">
+<table align="center">
   <tr>
     <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/GbosDev/GbosDev/main/profile-summary-card-output/dracula/3-stats.svg" /></td>
     <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/GbosDev/GbosDev/main/profile-summary-card-output/dracula/1-repos-per-language.svg" /></td>
