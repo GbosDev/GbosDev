@@ -34,6 +34,6 @@ Estudante de **Sistemas de Informação (UNIRIO)**, com foco em **back-end**: mo
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GbosDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GbosDev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/GbosDev/GbosDev/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/GbosDev/GbosDev/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
 </div>
