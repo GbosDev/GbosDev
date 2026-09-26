@@ -1,6 +1,9 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=180&section=header" />
+
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&repeat=true&lines=Ol%C3%A1%2C+eu+sou+Gabriel+Souza+%F0%9F%91%8B;Desenvolvedor+Backend+%7C+Java+%7C+Python;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+-+UNIRIO" alt="Typing SVG" />
 
 <a href="https://www.linkedin.com/in/gabrielsouzabr/">
