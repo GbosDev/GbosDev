@@ -33,7 +33,7 @@ Estudante de **Sistemas de Informação (UNIRIO)**, com foco em **back-end**: mo
 
 ## 📊 Estatísticas
 
-<div align="center">
+<div align="right">
   <img src="https://raw.githubusercontent.com/GbosDev/GbosDev/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
   <img src="https://raw.githubusercontent.com/GbosDev/GbosDev/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
 </div>
