@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Gabriel+Souza+%F0%9F%91%8B;Desenvolvedor+Web+%7C+Java+%7C+Python;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+-+UNIRIO" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Gabriel+Souza+%F0%9F%91%8B;Desenvolvedor+Backend+%7C+Java+%7C+Python;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+-+UNIRIO" alt="Typing SVG" />
+
+<img src="https://img.shields.io/badge/Desenvolvedor%20Backend-2F81F7?style=for-the-badge" />
 
 <a href="https://www.linkedin.com/in/gabrielsouzabr/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -13,34 +15,20 @@
 
 ## 👨‍💻 Sobre mim
 
-Estudante de **Sistemas de Informação (UNIRIO)**, focado em desenvolvimento web full-stack. Meus projetos vão de exercícios sólidos de POO e estruturas de dados em Java/Python até aplicações completas com back-end (Spring Boot, Python), front-end (Angular, JS puro) e banco de dados (MySQL, MongoDB).
+Estudante de **Sistemas de Informação (UNIRIO)**, com foco em **back-end**: modelagem de banco de dados, arquitetura de sistemas em camadas e lógica de negócio em Java e Python. Já construí desde APIs e serviços com Spring Boot até bancos relacionais do zero, sempre reforçando fundamentos de POO e estruturas de dados. O front-end eu uso como apoio para entregar os projetos por completo, mas é a parte que ainda estou desenvolvendo e praticando mais.
 
-- 🏗️ Já arquitetei sistemas multi-camada (FED → BFF → SRV) com Angular, Spring WebFlux e Spring MVC
-- 🧪 Tenho experiência prática com testes de carga (k6) e análise de latência/vazão/concorrência
-- 📊 Gosto de construir painéis e dashboards interativos orientados a dados reais
+- ☕ Base sólida em **Java** (POO, coleções, estruturas de dados) e **Python**
+- 🏗️ Arquitetura em camadas com **Spring Boot** (WebFlux e MVC), separando domínio, aplicação e integração
+- 🗄️ Modelagem e implementação de bancos **MySQL** e **MongoDB**
+- 🧪 Testes de carga com **k6**, analisando latência, vazão e concorrência
 - 🔧 No trabalho, uso o ecossistema Atlassian (Jira, Bitbucket, Bamboo) para deploys de front-ends
 
 <br/>
 
-## 🛠️ Stack
+## 🛠️ Linguagens e Tecnologias
 
 <div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=java,python,spring,mysql,mongodb,docker,js,html,css,git,nginx&theme=dark" />
 </div>
 
 <br/>
