@@ -24,7 +24,7 @@ Estudante de **Sistemas de Informação (UNIRIO)**, com foco em **back-end**: mo
 ## 🧰 Linguagens e Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,spring,mysql,mongodb,docker,js,html,css,git,nginx&theme=dark" />
+  <img width="800" src="https://skillicons.dev/icons?i=java,python,spring,mysql,mongodb,docker,js,html,css,git,nginx&theme=dark" />
 </div>
 
 <br/>
