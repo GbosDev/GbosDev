@@ -2,11 +2,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Ol%C3%A1%2C+eu+sou+Gabriel+Souza+%F0%9F%91%8B;Desenvolvedor+Backend+%7C+Java+%7C+Python;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+-+UNIRIO" alt="Typing SVG" />
 
+<br/>
+
+<br/><br/>
+
 <a href="https://www.linkedin.com/in/gabrielsouzabr/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/GbosDev">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -35,7 +36,7 @@ Estudante de **Sistemas de Informação (UNIRIO)**, com foco em **back-end**: mo
 
 <table align="center">
   <tr>
-    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/GbosDev/GbosDev/main/profile-summary-card-output/dracula/0-profile-details.svg" /></td>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/GbosDev/GbosDev/main/profile-summary-card-output/dracula/3-stats.svg" /></td>
     <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/GbosDev/GbosDev/main/profile-summary-card-output/dracula/1-repos-per-language.svg" /></td>
   </tr>
 </table>
