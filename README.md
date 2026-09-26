@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Ol%C3%A1%2C+eu+sou+Gabriel+Souza+%F0%9F%91%8B;Desenvolvedor+Backend+%7C+Java+%7C+Python;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+-+UNIRIO" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&repeat=true&lines=Ol%C3%A1%2C+eu+sou+Gabriel+Souza+%F0%9F%91%8B;Desenvolvedor+Backend+%7C+Java+%7C+Python;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+-+UNIRIO" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=180&section=header" />
 
 <a href="https://www.linkedin.com/in/gabrielsouzabr/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -32,7 +34,7 @@ Estudante de **Sistemas de Informação (UNIRIO)**, com foco em **back-end**: mo
 
 <table align="center">
   <tr>
-    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/GbosDev/GbosDev/main/profile-summary-card-output/dracula/3-stats.svg" /></td>
-    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/GbosDev/GbosDev/main/profile-summary-card-output/dracula/1-repos-per-language.svg" /></td>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/GbosDev/GbosDev/main/profile-summary-card-output/nord-dark/3-stats.svg" /></td>
+    <td width="50%"><img width="100%" src="https://raw.githubusercontent.com/GbosDev/GbosDev/main/profile-summary-card-output/nord-dark/1-repos-per-language.svg" /></td>
   </tr>
 </table>
