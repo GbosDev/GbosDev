@@ -40,5 +40,10 @@ Estudante de **Sistemas de Informação (UNIRIO)**, com foco em **back-end**: mo
 
 <br/>
 
-🐍 Atividade no GitHub
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GbosDev/GbosDev/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GbosDev/GbosDev/output/github-contribution-grid-snake.svg" /> <img alt="snake" src="https://raw.githubusercontent.com/GbosDev/GbosDev/output/github-contribution-grid-snake.svg" /> </picture> </div>
+## 🐍 Atividade no GitHub
+<div align="center"> 
+  <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GbosDev/GbosDev/output/github-contribution-grid-snake-dark.svg" /> 
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GbosDev/GbosDev/output/github-contribution-grid-snake.svg" /> 
+    <img alt="snake" src="https://raw.githubusercontent.com/GbosDev/GbosDev/output/github-contribution-grid-snake.svg" /> 
+  </picture> 
+</div>
